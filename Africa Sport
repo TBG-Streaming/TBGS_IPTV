@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-2,Supersport Football
-http://stariptv.org:8080/wael2021/123456/92155
-#EXTINF:-2,Supersport Extra
-http://stariptv.org:8080/wael2021/123456/92156
-#EXTINF:-2,Supersport 2
-http://stariptv.org:8080/wael2021/123456/92157
+#EXTINF:-1,SUPERSPORT 5
+http://stariptv.org:8080/wael2021/123456/92159
+#EXTINF:-1,Sky Sports Main Event 
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2075.m3u8
+#EXTINF:-1,Sky Sports Main Event HD
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/2074.m3u8
